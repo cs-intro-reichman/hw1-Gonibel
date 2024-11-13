@@ -12,7 +12,7 @@ public class Bill3 {
 		double split = bill1/3.0;
 		double split1 = Math.ceil(split);
 
-		System.out.println("Dear " + name3 + ", " + name2 + ", and " + name1 + ":  pay " + split1 + " Shekels each.");
+		System.out.println("Dear " + name3 + ", " + name2 + ", and " + name1 + ":  pay " + split1 + " Shekels each");
 
 	    // Replace this comment with the rest of your code   
 	}
